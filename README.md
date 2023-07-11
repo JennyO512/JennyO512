@@ -1,16 +1,65 @@
-### Hi there 👋
+![Header](./github-header-image.png)
 
-<!--
-**JennyO512/JennyO512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I'm a seasoned Analyst with over 11 years of experience in the public sector. I am an aspiring Full-stack Developer, with a strong foundation in Python, HTML, CSS, and JS, and have successfully launched two web applications.
 
-Here are some ideas to get you started:
+I'm passionate about continuous learning and professional development, and I'm always looking for new ways to expand my skill set and stay on the cutting edge of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 Little Bit More About Me
+<p>🔭 I'm currently working on www.Designai.us and WeatherSense</p>
+<p>🌱 I'm currently learning Django</p>
+<p>💬 Ask me about Python, Flask, OpenAi APIs</p>
+
+## 💻 Skills
+<p>
+  Python
+  </p>
+  <p>
+  Flask
+</p>
+    <p>
+  Django
+</p>
+  <p>
+  SQL
+</p>
+    <p>
+  C
+</p>
+  <p>
+  COBOL
+  </p>
+    <p>
+  CICS
+  </p>
+
+  <p>
+  PostgreSQL  
+</p>
+<p>
+  MongoDB
+</p>
+<p>
+  HTML
+</p>
+<p>
+  CSS
+</p>
+<p>
+  JavaScript
+</p>
+<p>
+  Being Awesome 👋
+</p>
+
+## 👥 Connect With Me
+<p>
+</p>
+
+## 🌟 Github Badges
+<p>
+</p>
+
+## 🏆 GitHub Trophies
+
+
+## 📊 Github Status
