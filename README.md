@@ -13,53 +13,7 @@ I'm passionate about continuous learning and professional development, and I'm a
 <p>
   Python
   </p>
-  <p>
-  Flask
-</p>
-    <p>
-  Django
-</p>
-  <p>
-  SQL
-</p>
-    <p>
-  C
-</p>
-  <p>
-  COBOL
-  </p>
-    <p>
-  CICS
-  </p>
-
-  <p>
-  PostgreSQL  
-</p>
-<p>
-  MongoDB
-</p>
-<p>
-  HTML
-</p>
-<p>
-  CSS
-</p>
-<p>
-  JavaScript
-</p>
 <p>
   Being Awesome 👋
 </p>
 
-## 👥 Connect With Me
-<p>
-</p>
-
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-
-## 📊 Github Status
