@@ -14,10 +14,12 @@ I'm passionate about continuous learning and professional development, and I'm a
 -   Being Awesome 👋
 </p>
 
-![JennyO512 github stats](https://github-readme-stats.vercel.app/api?username=JennyO512&show_icons=true&hide_border=true)&nbsp;&nbsp;
+
+![JennyO512's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennyO512&show_icons=false&theme=synthwave)&nbsp;&nbsp;
+
+
+## Fluent Languages
 ![JennyO512 Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JennyO512&layout=compact&langs_count=8&hide_border=true)
-
-
 
 
 
