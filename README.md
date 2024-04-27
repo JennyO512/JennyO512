@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-Hello! 👋 I'm a seasoned Analyst with over 11 years of experience in the public sector. I am an aspiring Full-stack Developer, with a strong foundation in Python, HTML, CSS, and JS, and have successfully launched two web applications.
+Hello! 👋 I'm a seasoned Analyst with over 13 years of experience in the public sector. I am an aspiring Full-stack Developer, with a strong foundation in Python, HTML, CSS, and JS, and have successfully launched two web applications.
 
 I'm passionate about continuous learning and professional development, and I'm always looking for new ways to expand my skill set and stay on the cutting edge of technology.
 
@@ -13,9 +13,6 @@ I'm passionate about continuous learning and professional development, and I'm a
 <p>
 -   Being Awesome 👋
 </p>
-
-
-![JennyO512's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennyO512&show_icons=false&theme=synthwave)&nbsp;&nbsp;
 
 
 ## Fluent Languages
